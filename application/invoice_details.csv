@@ -1,0 +1,2 @@
+Company Name,Street,Zipcode,City,Country,VAT number,Sales period,Invoice Number,Invoice Date,Payment Date
+<your_company_name>,<your_company_address>,<your_company_zipcode>,<your_company_city>,<your_company_country>,<your_company_vat_number>,<ex: 1 Mar. 2023 – 31 Mar. 2023>,<your_invoice_number>,<ex: 31 Mar. 2023>,<ex: 15 Apr. 2023>
